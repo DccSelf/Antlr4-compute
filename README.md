@@ -24,11 +24,11 @@
 ./compute ../test.txt
 ```
 
-<img src="D:/研究生课程/高级编译技术/work/Antlr4-compute/test.png" style="zoom: 50%;" />
+<img src="test.png" style="zoom: 50%;" />
 
 测试结果正确：
 
-<img src="D:/研究生课程/高级编译技术/work/Antlr4-compute/test-result.png" style="zoom:50%;" />
+<img src="test-result.png" style="zoom:50%;" />
 
 #### 实现代码
 
